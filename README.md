@@ -4,6 +4,7 @@
 **vickiksm/vickiksm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### :octocat: 안녕하세요? 상구 입니다.
 
 - 🔭 나는 러닝을 좋아합니다.
 - 🌱 나는 등산도 좋아합니다.
